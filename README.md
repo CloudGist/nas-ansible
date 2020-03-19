@@ -98,19 +98,13 @@ others could benefit, add it and raise a PR!
 
 Ansible NAS doesn't set up your disk partitions, primarily because getting it wrong can be incredibly destructive.
 That aside, configuring partitions is usually a one-time (or very infrequent) event, so there's not much to be
-gained by automating it. Check out the [docs](https://davestephens.github.io/ansible-nas) for recommended setups.
+gained by automating it. 
 
-## Installation
 
-See [Installation](https://davestephens.github.io/ansible-nas/installation/).
-
-## Upgrading
-
-**The way Ansible-NAS configuration is structured has changed!** See [Upgrading](https://davestephens.github.io/ansible-nas/upgrading/) for more information. See the **Getting Help** section if you get stuck.
 
 ## Documentation
 
-You can read the docs [here](https://davestephens.github.io/ansible-nas). PRs
+You can read the docs [here]https://github.com/conradmako/nas-ansible/edit/master/README.md. PRs
 for more documentation always welcome!
 
 ## Migrating from FreeNAS
@@ -131,21 +125,17 @@ Assuming that your Ubuntu system disk is separate from your storage (it should b
 * You can run Ansible-NAS on whatever you like, read the docs for more info. I
   use an HP Microserver.
 
-## Getting Help
 
-Getting help is easy! You can:
 
-* Read the [docs](https://davestephens.github.io/ansible-nas)
-* Raise an [issue](https://github.com/davestephens/ansible-nas/issues)
-* Chat on [Gitter](https://gitter.im/Ansible-NAS/Chat)
+
+
+
 
 ## Contributing
 
 Contributions are always welcome! Please read [CONTRIBUTING.md](CONTRIBUTING.md) first.
 
-## Support
 
-If you've enjoyed Ansible-NAS as much as I do working on it, please consider [buying me a coffee](https://ko-fi.com/davestephens) :coffee:
 
 ## Thanks
 
