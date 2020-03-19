@@ -15,16 +15,3 @@ theme:
     text: 'Roboto'
     code: 'Roboto Mono'
 
-# Repository
-repo_name: 'davestephens/ansible-nas'
-repo_url: 'https://github.com/davestephens/ansible-nas'
-
-# Copyright
-copyright: 'Copyright &copy; 2017 - 2019 David Stephens'
-
-# Customization
-extra:
-  manifest: 'manifest.webmanifest'
-  social:
-    - type: 'github'
-      link: 'https://github.com/davestephens'
