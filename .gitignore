@@ -1,0 +1,12 @@
+tests/test.yml
+site
+.vagrant
+roles
+*.retry
+*.log
+
+# Vim
+[._]sw[a-p]
+
+# Session
+Session.vim
